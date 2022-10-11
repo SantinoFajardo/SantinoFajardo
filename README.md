@@ -61,7 +61,7 @@ My stack de tecnologias es el siguiente:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo&show_icons=true&theme=swift)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/SantinoFajardo?username=SantinoFajardo)](https://github.com/SantinoFajardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoFajardo&langs_count=10)](https://github.com/SantinoFajardo/github-readme-stats)
 
 
 <br>
