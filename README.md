@@ -23,4 +23,11 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67">
 </div>
 
+<h1 font-size="40px">BASES DE DATOS:</h1>
+<div display="flex" flex-wrap="wrap">
+<img width="50px" height = "50px" src="https://icons-for-free.com/download-icon-Prisma-1324888754378428488_256.ico">
+<img width="50px" height = "50px" src="https://images.opencollective.com/sequelize/5974b6b/logo/256.png">
+<img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
+</div>
+
 
