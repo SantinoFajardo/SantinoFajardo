@@ -32,8 +32,8 @@ My stack de tecnologias es el siguiente:
 
 Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
 
-🔗 Gmail: santinofajardo02@gmail.com
-🔗 Linkedin : https://www.linkedin.com/in/santino-fajardo-810a61235/
+🔗 Gmail: santinofajardo02@gmail.com <br>
+🔗 Linkedin : https://www.linkedin.com/in/santino-fajardo-810a61235/ <br>
 📱+54 3487-707459
 
 
