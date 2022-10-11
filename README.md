@@ -56,8 +56,13 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
+
+<h1 font-size="40px">GitHub Stats</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo&show_icons=true&theme=swift)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo)](https://github.com/SantinoFajardo/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SantinoFajardo&show_icons=true&theme=swift)](https://github.com/SantinoFajardo/github-readme-stats)
+
 
 
 <br>
