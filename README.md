@@ -14,5 +14,6 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
 <img width="50px" height = "50px"   src = "https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png">
 <img width="50px" height = "50px"   src = "https://static-00.iconduck.com/assets.00/next-dot-js-icon-256x256-lkn50kli.png">
+<img width="50px" height = "50px" src ="https://camo.githubusercontent.com/807a841178a49b85c44b25373873d8c5121ee2711e676a968643dbb642eb1eba/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3430302f312a59745f6b7867616f567746585f6c4f336c775a506c672e706e67">
 </div>
 
