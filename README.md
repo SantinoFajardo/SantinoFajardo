@@ -34,6 +34,15 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </div>
 
+<h1 font-size="40px">OTROS:</h1>
+<div  display="flex" flex-wrap="wrap">
+<img alt="vercel" width="50px" height = "50px" src="https://i.pinimg.com/favicons/c38fa951eee1634b5661858134360485f5da9059ad595e5138ed6b81.ico?c630728794e72bd1065df7b6d28b3852">
+<img alt="npm" width="50px" height = "50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDv2tPAkYXSQJR4BrEnW-tUmYDUEkmAmyGbu23o-SP-AkEf7NtY5mIuL6mKeDaJ34i2HE&usqp=CAU">
+<img alt ="figma" width="50px" height = "50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968701.png">
+<img alt ="Jira" width="50px" height = "50px" src="https://leadgenapp.io/wp-content/uploads/2022/03/ea4a5ee38c7a088e243745dd0b851784.png">
+<img alt ="Postman" width="50px" height = "50px" src="<img alt ="Jira" width="50px" height = "50px" src="https://leadgenapp.io/wp-content/uploads/2022/03/ea4a5ee38c7a088e243745dd0b851784.png">">
+</div>
+
 Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
 
 🔗 Gmail: santinofajardo02@gmail.com <br>
