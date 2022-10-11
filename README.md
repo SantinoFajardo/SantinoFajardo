@@ -1,11 +1,15 @@
 <img height="300px" width ="100%" src="./ImagenPresentacion.jpg" alt="My cool logo"/>
 
+<br>
+
 <h1>💎About me </h1>
 🚀Soy un desarrollador de software, tengo stack en backend y en frontend, lo que me permite poder desarrollar aplicaciones y buscar informacion de forma independiente en ambos sectores.
 
 🧑‍🤝‍🧑Me forme en Henry Bootcamp, donde fui Teaching Assistant, lidere un grupo de estudiantes para poder ayudarlos a que alcancen sus objetivos de la forma mas eficiente posible.
 
 💻 Me encanta afrontar nuevos desafios todos los dias para poder ganar experiencia y avanzar todos los dias. Soy proactivo, organizado y siempre busco salir de mi zona de confort para siempre ser mejor cada dia.
+
+<br>
 
 My stack de tecnologias es el siguiente:
 
@@ -22,11 +26,15 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://img.icons8.com/color/480/redux.png">
 </div>
 
+<br>
+
 <h1 font-size="40px">BACK-END:</h1>
 <div display="flex" flex-wrap="wrap">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 <img width="50px" height = "50px" src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67">
 </div>
+
+<br>
 
 <h1 font-size="40px">BASES DE DATOS:</h1>
 <div display="flex" flex-wrap="wrap">
@@ -34,6 +42,8 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://images.opencollective.com/sequelize/5974b6b/logo/256.png">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </div>
+
+<br>
 
 <h1 font-size="40px">OTROS:</h1>
 <div  display="flex" flex-wrap="wrap">
@@ -44,7 +54,15 @@ My stack de tecnologias es el siguiente:
 <img alt ="Postman" width="50px" height = "50px" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/postman_macos_bigsur_icon_189815.png">
 </div>
 
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SantinoFajardo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
+
+<br>
 
 🔗 Gmail: santinofajardo02@gmail.com <br>
 🔗 Linkedin : https://www.linkedin.com/in/santino-fajardo-810a61235/ <br>
