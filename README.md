@@ -63,7 +63,7 @@ My stack de tecnologias es el siguiente:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoFajardo&langs_count=10)](https://github.com/SantinoFajardo/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Santino2002&theme=high-contrast)](https://github.com/Santino2002/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantinoFajardo&theme=high-contrast)](https://github.com/SantinoFajardo/github-readme-activity-graph)
 
 
 <br>
