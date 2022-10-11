@@ -17,3 +17,10 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src ="https://camo.githubusercontent.com/807a841178a49b85c44b25373873d8c5121ee2711e676a968643dbb642eb1eba/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3430302f312a59745f6b7867616f567746585f6c4f336c775a506c672e706e67">
 </div>
 
+<h1 font-size="40px">BACK-END:</h1>
+<div display="flex" flex-wrap="wrap">
+<img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+<img width="50px" height = "50px" src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67">
+</div>
+
+
