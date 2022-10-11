@@ -1,4 +1,4 @@
-<img height="200px" src="./ImagenPresentacion.jpg" alt="My cool logo"/>
+<img height="200px" width ="100%" src="./ImagenPresentacion.jpg" alt="My cool logo"/>
 
 <h1>💎About me </h1>
 🚀Soy un desarrollador de software, tengo stack en backend y en frontend, lo que me permite poder desarrollar aplicaciones y buscar informacion de forma independiente en ambos sectores.
