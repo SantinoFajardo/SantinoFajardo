@@ -68,6 +68,8 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
+<h1>🫂Contact</h1>
+
 Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
 
 <br>
