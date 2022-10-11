@@ -56,7 +56,7 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SantinoFajardo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo)](https://github.com/SantinoFajardo/github-readme-stats)
 
 <br>
 
