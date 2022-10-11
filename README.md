@@ -9,9 +9,9 @@
 My stack de tecnologias es el siguiente:
 
 <div display="flex" flex-wrap="wrap">
-<img width="50px" height = "30px" src="https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png">
-<img width="50px" height = "30px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
-<img width="50px" height = "30px"   src = "https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png">
-<img width="50px" height = "30px"   src = "https://static-00.iconduck.com/assets.00/next-dot-js-icon-256x256-lkn50kli.png">
+<img width="50px" height = "50px" src="https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png">
+<img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
+<img width="50px" height = "50px"   src = "https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png">
+<img width="50px" height = "50px"   src = "https://static-00.iconduck.com/assets.00/next-dot-js-icon-256x256-lkn50kli.png">
 </div>
 
