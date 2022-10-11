@@ -57,7 +57,7 @@ My stack de tecnologias es el siguiente:
 <br>
 
 
-<h1 font-size="40px">GitHub Stats</h1>
+<h1 font-size="40px">📈GitHub Estadisticas</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo&show_icons=true&theme=swift)
 
