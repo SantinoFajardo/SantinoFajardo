@@ -33,7 +33,7 @@ My stack de tecnologias es el siguiente:
 Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
 
 
-<img src ="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" width = "40px" height="40px">: Santinofajardo02@gmail.com
+<img src ="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" width = "40px" height="40px"><p>Santinofajardo02@gmail.com</p>
 
 
 
