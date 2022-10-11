@@ -68,6 +68,11 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantinoFajardo&theme=high-contrast)](https://github.com/SantinoFajardo/github-readme-activity-graph)
 
+<br>
+
+<h1 font-size="40px">🏆Trofeos de GitHub</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SantinoFajardo&theme=onedark)](https://github.com/SantinoFajardo/github-profile-trophy)
 
 <br>
 
