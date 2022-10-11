@@ -30,4 +30,11 @@ My stack de tecnologias es el siguiente:
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </div>
 
+Si te interesaria saber mas sobre mi poder contactarme, en las siguientes plataformas, te respondere con gusto!
+<div display="flex" flex-wrap="wrap">
+<a><img width = "50px" height = "50px" src ="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png"></a>
+</div>
+
+
+
 
