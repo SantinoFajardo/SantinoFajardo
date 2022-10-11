@@ -9,7 +9,7 @@
 My stack de tecnologias es el siguiente:
 
 <div display="flex" flex-wrap="wrap">
-<img widt="30px" heigth = "30px" src="https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png">
-<img widt="30px" heigth = "30px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
+<img width="30px" height = "30px" src="https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png">
+<img width="30px" height = "30px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
 </div>
 
