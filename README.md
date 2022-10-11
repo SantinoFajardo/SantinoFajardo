@@ -14,9 +14,9 @@
 
 <br>
 
-My stack de tecnologias es el siguiente:
+<h1>🧑‍💻Skills</h1>
 
-<h1 font-size="40px">FRONT-END:</h1>
+<h2 font-size="40px">FRONT-END:</h2>
 <div display="flex" flex-wrap="wrap">
 <img width="50px" height = "50px" src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-icono-de-lenguaje-de-programacion-html.png">
 <img width="50px" height = "50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
@@ -31,7 +31,7 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
-<h1 font-size="40px">BACK-END:</h1>
+<h2 font-size="40px">BACK-END:</h2>
 <div display="flex" flex-wrap="wrap">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 <img width="50px" height = "50px" src="https://camo.githubusercontent.com/b781e4e3cb62aea137020cdcffd9bcebc1a28ad24131af05515c3cb4dfc20fe5/68747470733a2f2f69322e77702e636f6d2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67">
@@ -39,7 +39,7 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
-<h1 font-size="40px">BASES DE DATOS:</h1>
+<h2 font-size="40px">BASES DE DATOS:</h2>
 <div display="flex" flex-wrap="wrap">
 <img width="50px" height = "50px" src="https://icons-for-free.com/download-icon-Prisma-1324888754378428488_256.ico">
 <img width="50px" height = "50px" src="https://images.opencollective.com/sequelize/5974b6b/logo/256.png">
@@ -48,7 +48,7 @@ My stack de tecnologias es el siguiente:
 
 <br>
 
-<h1 font-size="40px">OTROS:</h1>
+<h2 font-size="40px">OTROS:</h2>
 <div  display="flex" flex-wrap="wrap">
 <img alt="vercel" width="50px" height = "50px" src="https://i.pinimg.com/favicons/c38fa951eee1634b5661858134360485f5da9059ad595e5138ed6b81.ico?c630728794e72bd1065df7b6d28b3852">
 <img alt="npm" width="50px" height = "50px" src="https://camo.githubusercontent.com/fab4b59769d82f5e3b02ab2188ff6a6935cfbc09da3b39deb7c99acbf464e30f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6e706d2e706e67">
