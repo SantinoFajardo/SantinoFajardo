@@ -62,9 +62,13 @@
 
 <h1 font-size="40px">📈GitHub Estadisticas</h1>
 
+<div display="flex" flex-wrap="wrap">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoFajardo&show_icons=true&theme=swift)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoFajardo&langs_count=10)](https://github.com/SantinoFajardo/github-readme-stats)
+</div>
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantinoFajardo&theme=high-contrast)](https://github.com/SantinoFajardo/github-readme-activity-graph)
 
