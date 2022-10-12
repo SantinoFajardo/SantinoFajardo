@@ -14,7 +14,7 @@
 
 <br>
 
-<h1>🧑‍💻Skills</h1>
+<h1>🧑‍💻 MIS SKILLS</h1>
 
 <h2 font-size="40px">FRONT-END:</h2>
 <div display="flex" flex-wrap="wrap">
