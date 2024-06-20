@@ -46,11 +46,10 @@
 
 <h2 font-size="40px">OTROS:</h2>
 <div  display="flex" flex-wrap="wrap">
-<img alt="vercel" width="50px" height = "50px" src="https://i.pinimg.com/favicons/c38fa951eee1634b5661858134360485f5da9059ad595e5138ed6b81.ico?c630728794e72bd1065df7b6d28b3852">
-<img alt="npm" width="50px" height = "50px" src="https://camo.githubusercontent.com/fab4b59769d82f5e3b02ab2188ff6a6935cfbc09da3b39deb7c99acbf464e30f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6e706d2e706e67">
+<img alt="vercel" width="50px" height = "50px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg">
+<img alt="npm" width="50px" height = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png">
 <img alt ="figma" width="50px" height = "50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968701.png">
-<img alt ="Jira" width="50px" height = "50px" src="https://leadgenapp.io/wp-content/uploads/2022/03/ea4a5ee38c7a088e243745dd0b851784.png">
-<img alt ="Postman" width="50px" height = "50px" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/postman_macos_bigsur_icon_189815.png">
+<img alt ="Jira" width="50px" height = "50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
 </div>
 
 <br>
