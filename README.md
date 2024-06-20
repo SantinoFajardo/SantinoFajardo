@@ -20,8 +20,6 @@
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
 <img width="50px" height = "50px"   src = "https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png">
 <img width="50px" height = "50px"   src = "https://static-00.iconduck.com/assets.00/next-dot-js-icon-256x256-lkn50kli.png">
-<img width="50px" height = "50px" src ="https://camo.githubusercontent.com/807a841178a49b85c44b25373873d8c5121ee2711e676a968643dbb642eb1eba/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3430302f312a59745f6b7867616f567746585f6c4f336c775a506c672e706e67">
-<img width="50px" height = "50px" src="https://camo.githubusercontent.com/328dd0b08cb4d61d00f8362daa41fad7421c6f12b28a671f0b353ba98deb4bb9/68747470733a2f2f696d616765732e6f70656e636f6c6c6563746976652e636f6d2f6368616b72612d75692d70726f2f363162643164642f6c6f676f2f3235362e706e67">
 <img width="50px" height = "50px" src="https://img.icons8.com/color/480/redux.png">
 </div>
 
@@ -39,7 +37,7 @@
 
 <h2 font-size="40px">BASES DE DATOS:</h2>
 <div display="flex" flex-wrap="wrap">
-<img width="50px" height = "50px" src="https://icons-for-free.com/download-icon-Prisma-1324888754378428488_256.ico">
+<img width="50px" height = "50px" src="">
 <img width="50px" height = "50px" src="https://images.opencollective.com/sequelize/5974b6b/logo/256.png">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </div>
