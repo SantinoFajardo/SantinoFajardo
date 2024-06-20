@@ -3,18 +3,14 @@
 <br>
 
 <h1>💎About me </h1>
-🚀Soy un desarrollador de software, tengo stack en backend y en frontend, lo que me permite poder desarrollar aplicaciones y buscar informacion de forma independiente en ambos sectores.
+🚀 I am a software developer with knowledge in the backend and frontend sector, which allows me to move flexibly in both fields. I specialize in backend development, with work experience creating APIRest, servers, SQL and noSQL databases, security, jwt tokens and more. 
 <br>
 <br>
-🧑‍🤝‍🧑Me forme en Henry Bootcamp, donde fui Teaching Assistant, lidere un grupo de estudiantes para poder ayudarlos a que alcancen sus objetivos de la forma mas eficiente posible.
-<br>
-<br>
-
-💻 Me encanta afrontar nuevos desafios todos los dias para poder ganar experiencia y avanzar todos los dias. Soy proactivo, organizado y siempre busco salir de mi zona de confort para siempre ser mejor cada dia.
+🧑‍🤝‍🧑 Dedicated and results-driven Software Engineer with a proven track record of developing innovative and efficient software solutions. Seeking a challenging position where I can utilize my technical skills and expertise to contribute to the growth and success of a dynamic company. Eager to collaborate with talented professionals and contribute to impactful projects.
 
 <br>
 
-<h1>🧑‍💻 MIS SKILLS</h1>
+<h1>🧑‍💻 My Skills</h1>
 
 <h2 font-size="40px">FRONT-END:</h2>
 <div display="flex" flex-wrap="wrap">
