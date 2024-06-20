@@ -31,6 +31,8 @@
 <div display="flex" flex-wrap="wrap">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 <img width="50px" height="50px" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png"/>
+<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>
 </div>
 
 <br>
