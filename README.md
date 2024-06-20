@@ -37,7 +37,7 @@
 
 <h2 font-size="40px">BASES DE DATOS:</h2>
 <div display="flex" flex-wrap="wrap">
-<img width="50px" height = "50px" src="">
+<img width="50px" height = "50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png">
 <img width="50px" height = "50px" src="https://images.opencollective.com/sequelize/5974b6b/logo/256.png">
 <img width="50px" height = "50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </div>
