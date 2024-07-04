@@ -1,4 +1,4 @@
-<img height="300px" width ="100%" src="./ImagenPresentacion.jpg" alt="My cool logo"/>
+<img height="300px" width ="100%" src="./Santino.gif" alt="My cool logo"/>
 
 <br>
 
