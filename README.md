@@ -1,4 +1,4 @@
-<img width ="100%" src="./Santino.gif" alt="My cool logo"/>
+<img width ="100%" src="./Santinofajardo.png" alt="Santino Fajardo GitHub image presentation"/>
 
 <br>
 
